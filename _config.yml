@@ -1,13 +1,7 @@
 theme: jekyll-theme-cayman
 title: 都乐·证券参与指引
-author: Wilbur Sun
-header-img: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1601304178421&di=377edad24b39916513f889db7cd4119b&imgtype=0&src=http%3A%2F%2Ft7.baidu.com%2Fit%2Fu%3D3616242789%2C1098670747%26fm%3D79%26app%3D86%26f%3DJPEG%3Fw%3D900%26h%3D1350
-email: wilbur.sun@outlook.com
 description: 证券市场特训
 keyword: word1, word2
-url: http://wilbur-sun.github.io
-baseurl: 
-github_repro: https://github.com/wilbur-sun/gh-pages.git
 pretty_urls:
-  trailing_index: true # 设置为false时会将末尾的index.html去掉
-  trailing_html: true # 设置为false时会将末尾的.html去掉，对index.html无效
+  trailing_index: false # 设置为false时会将末尾的index.html去掉
+  trailing_html: false # 设置为false时会将末尾的.html去掉，对index.html无效
