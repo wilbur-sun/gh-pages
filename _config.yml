@@ -1,2 +1,10 @@
 theme: jekyll-theme-cayman
-title: 都乐贝证券指引
+title: 都乐证券参与指南
+SEOTitle: SEOTitle
+header-img: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1601304178421&di=377edad24b39916513f889db7cd4119b&imgtype=0&src=http%3A%2F%2Ft7.baidu.com%2Fit%2Fu%3D3616242789%2C1098670747%26fm%3D79%26app%3D86%26f%3DJPEG%3Fw%3D900%26h%3D1350
+email: wilbur.sun@outlook.com
+description: description
+keyword: word1, word2
+url: http://wilbur-sun.github.io
+baseurl: 
+github_repro: https://github.com/wilbur-sun/gh-pages.git
