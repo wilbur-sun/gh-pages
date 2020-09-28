@@ -2,6 +2,3 @@ theme: jekyll-theme-cayman
 title: 都乐·证券参与指引
 description: 证券市场特训
 keyword: word1, word2
-pretty_urls:
-  trailing_index: false # 设置为false时会将末尾的index.html去掉
-  trailing_html: false # 设置为false时会将末尾的.html去掉，对index.html无效
