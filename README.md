@@ -4,5 +4,5 @@
 
 本书介绍机构操盘策略。
 
-[主页](README.md)
-[第一章](chapter1/basic.md)
+- [主页](README.md)
+- [第一章 机构破绽](chapter1/basic.md)
