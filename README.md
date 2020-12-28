@@ -6,9 +6,9 @@
 
 本书介绍机构操盘策略。
 
-- [每日解盘](chapter2/daily.md)
+- [每日解盘](daily/index.md)
 - [第一章 机构破绽](chapter1/jgpz.md)
-- [第二章 特殊形态短线](chapter1/tsxtdx.md)
+- [第二章 特殊形态短线](chapter2/tsxtdx.md)
 - [附录 公式](appendix/formula.md)
 
 ## 趋势密码
