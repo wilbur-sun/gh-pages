@@ -11,7 +11,7 @@
 - [第二章 特殊形态短线](chapter2/tsxtdx.md)
 - [附录 公式](appendix/formula.md)
 
-[周期率](appendix/zql.md)
+[周期率](appendix/zql.md) | [筹码](appendix/cm.md)
 
 ## 趋势密码
 
