@@ -1,6 +1,6 @@
 # 这里开始
 
-在这里记录操盘的相关内容。
+机构操盘策略的相关内容。
 
 ## 引言
 
@@ -10,6 +10,8 @@
 - [第一章 机构破绽](chapter1/jgpz.md)
 - [第二章 特殊形态短线](chapter2/tsxtdx.md)
 - [附录 公式](appendix/formula.md)
+
+[周期率](appendix/zql.md)
 
 ## 趋势密码
 
