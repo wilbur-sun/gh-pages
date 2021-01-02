@@ -13,7 +13,7 @@
 - [第一章 前言](chapter1/index.md)
 - [第四章 机构持仓量](chapter4/index.md)
 - [第五章 机构反弹步骤策略](chapter5/index.md)
-- [第六章 机构破绽](chapter6/index.md)
+- [第六章 机构坐庄破绽](chapter6/index.md)
 - [附录 公式](appendix/formula.md)
 
 ## 基础知识点
