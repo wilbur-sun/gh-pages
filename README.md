@@ -5,6 +5,7 @@
 本书介绍机构操盘策略。
 
 - [每日解盘](daily/index.md)
+- [提升班半年课](daily/tsb202011.md)
 
 ![modules](images/jgcp/modules.png)
 
