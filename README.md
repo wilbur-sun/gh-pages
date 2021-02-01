@@ -13,6 +13,7 @@
 [初级篇](primary/index.md)
 
 - [第一节 浪型解析](primary/pr1.md)
+- [第二节 市场环境的判断](primary/pr2.md)
 
 [高级篇](advanced/index.md)
 
