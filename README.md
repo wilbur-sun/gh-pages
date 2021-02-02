@@ -27,7 +27,7 @@
 
 [提升篇](enhanced/index.md)
 
-- [提升班半年课](daily/tsb202011.md)
+- [提升班半年课](enhanced/tsb202011.md)
 
 ## 基础知识点
 
