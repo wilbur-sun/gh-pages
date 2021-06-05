@@ -21,7 +21,7 @@
 
 上涨浪 | 下跌浪
 -|-
-![上涨浪](img/shangzhanglang.png){:height="160px" width="400px"} | ![下跌浪](img/xiadielang.png){:height="160px" width="400px"}
+![上涨浪](img/shangzhanglang.png){:height="160px" width="350px"} | ![下跌浪](img/xiadielang.png){:height="160px" width="350px"}
 
 ## 实战要点
 
