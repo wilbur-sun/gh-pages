@@ -21,7 +21,7 @@
 
 上涨浪 | 下跌浪
 -|-
-![上涨浪](img/shangzhanglang.png) | ![下跌浪](img/xiadielang.png)
+![上涨浪](img/shangzhanglang.png){:height="100px" width="400px"} | ![下跌浪](img/xiadielang.png){:height="100px" width="400px"}
 
 ## 实战要点
 
@@ -31,11 +31,11 @@
 
 ### 上涨浪确立形态
 
-![上涨浪确立](img/shangzhanglangok.png) 
+![上涨浪确立](img/shangzhanglangok.png){:height="100px" width="400px"} 
 
 ### 下跌浪确立形态
 
-![下跌浪确立](img/xiadielangok.png)
+![下跌浪确立](img/xiadielangok.png){:height="100px" width="400px"}
 
 ### 基础操盘箴言
 
