@@ -7,7 +7,7 @@
 阳线|阴线
 -|-
 开盘价 < 收盘价 | 开盘价 > 收盘价
-![阳线](img/yangxian.png){:height="160px" width="400px"} | ![阴线](img/yinxian.png){:height="160px" width="400px"}
+![阳线](img/yangxian.png){:height="120px" width="200px"} | ![阴线](img/yinxian.png){:height="120px" width="200px"}
 
 **上涨浪**判定要素
 
