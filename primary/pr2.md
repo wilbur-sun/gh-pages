@@ -10,21 +10,21 @@
 1. 指数处于上涨浪
 2. 突破当天及未来3天对应的成交量都在120日均量线上方
 
-![上涨期](img/shangzhangqi.png)
+![上涨期](img/pr2_0_shangzhangqi.png){:height="260px" width="500px"}
 
 ## 震荡期
 
 1. 指数处于上涨浪
 2. 突破当天及未来3天对应的成交量没有连续在120日均量线上方
 
-![震荡期](img/zhendangqi.png)
+![震荡期](img/pr2_1_zhendangqi.png){:height="260px" width="500px"}
 
 ## 下跌期
 
 1. 指数处于下跌浪中运行
 2. 不考虑成交量形态
 
-![下跌期](img/xiadieqi.png)
+![下跌期](img/pr2_2_xiadieqi.png){:height="260px" width="500px"}
 
 ## 实战要点
 
