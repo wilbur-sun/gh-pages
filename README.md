@@ -6,7 +6,9 @@
 
 - [每日解盘](daily/index.md)
 
-![机构操盘策略6大学习模块](images/jgcp/modules.png)
+## 机构操盘策略6大学习模块
+
+![模块](images/jgcp/modules.png)
 
 ## 目录
 
@@ -14,6 +16,7 @@
 
 - [第一节 浪型解析](primary/pr1.md)
 - [第二节 市场环境的判断](primary/pr2.md)
+- [第三节 建仓形态](primary/pr3.md)
 
 [高级篇](advanced/index.md)
 
