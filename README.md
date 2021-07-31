@@ -4,9 +4,9 @@
 
 本书介绍机构操盘策略。
 
-- [每日解盘](daily/index.md)
+[股票池](.\product\index.md)
 
-## 机构操盘策略6大学习模块
+## 机构操盘策略6大学习模块P
 
 ![模块](images/jgcp/modules.png)
 
@@ -41,3 +41,7 @@
 ## 指标应用
 
 [趋势密码指标](appendix/qsmm.md)
+
+## 每日解盘
+
+[每日解盘](daily/index.md)
