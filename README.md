@@ -4,7 +4,7 @@
 
 本书介绍机构操盘策略。
 
-[股票池](.\daily\product\index.md)
+[股票池](daily/product/index.md)
 
 ## 机构操盘策略6大学习模块P
 
