@@ -14,10 +14,6 @@
 
 [初级篇](part1/index.md)
 
-- [第一节 浪型解析](part1/pr1.md)
-- [第二节 市场环境的判断](part1/pr2.md)
-- [第三节 建仓形态](part1/pr3.md)
-
 [高级篇](part2/index.md)
 
 - [第一章 机构操盘线](part2/ch1/index.md)
