@@ -1,7 +1,12 @@
 # 高级课
 
-[第四章 机构持仓量](ch4/index.md)
-[第五章 机构反弹步骤策略](ch5/index.md)
+- [第一章 机构操盘线](ch1/index.md)
+- [第二章 机构动能线](ch2/index.md)
+- [第三章 机构筹码流动](ch3/index.md)
+- [第四章 机构持仓量](ch4/index.md)
+- [第五章 机构反弹步骤策略](ch5/index.md)
+- [第六章 机构操盘破绽](ch6/index.md)
+- [附录 公式](../appendix/2_formula.md)
 
 投资组合
 
